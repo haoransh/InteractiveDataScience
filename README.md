@@ -20,3 +20,9 @@ Manupulation of SQLite
 A web page that tells a story about your mobile data using visualizations.
 
 For Byte4, go to [https://mobilebyte-haoransh.appspot.com/](https://mobilebyte-haoransh.appspot.com/).
+
+# Final Project
+
+A interactive website that provides interactive visualization of the [hotel review datasets on Kaggle](https://www.kaggle.com/datafiniti/hotel-reviews), and provides hotel rating prediction given customers' text reviews as well as automatic review retrieval given sentiment and key words.
+
+For final project, go to [http://lazyreview.pythonanywhere.com/](http://lazyreview.pythonanywhere.com/)
